@@ -1,14 +1,21 @@
-# Hi I am Alex Ong :wave:
+<!-- Heading -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Alex Ong!</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-f64363?style=for-the-badge&logo=streamlit&logoColor=white)
+<!-- About section -->
+---
+✨ I'm currently an AI Apprentice at [AI Singapore](https://aisingapore.org/) working with a local hospital on a project to aid in clinicians' workflows during a Caesarean Delivery with a Time-Series related AI Solution. ✨
 
-:scroll: Visit my portfolio page here: [https://https://alexongwc.github.io/](https://alexongwc.github.io/)
+🎓  My background is in Computer Science from the University of Wollongong and Computer Engineering from Singapore Polytechnic.
 
-:mortar_board: I am currently a AI Apprentice in AI Singapore. I have Computer Science background from University of wollongong and Computer Engineering background from Singapore Polytechnic. I have strong interest in the domain of Machine Learning as well as creating Web Applications. Feel free to connect with me on LinkedIn!
 
-:love_hotel: I am a Data Scientist and I have strong interest in the domain of Machine Learning as well as creating web applications. I am currently working in the AI Singapore . Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/alex-ong-900b211a4//)!
+<!-- Connect section -->
+<h2 align="center">Connect with me</h2>
+<p align="center">
+    <a href="https://linkedin.com/in/alex-ong-900b211a4/"><img src="https://img.shields.io/badge/-Alex%20Ong-blue?style=plastic&labelColor=blue&logo=LinkedIn&link=https://www.linkedin.com/in/alex-ong-900b211a4/" alt="LinkedIn Badge"></a>
+</p>
+
+<!-- Portfolio section -->
+<h2 align="center">Visit my Portfolio</h2>
+<p align="center">
+    <a href="https://alexongwc.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=plastic&logo=github&labelColor=black&link=https://alexongwc.github.io/" alt="Portfolio Badge"></a>
+</p>
